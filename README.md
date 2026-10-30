@@ -23,7 +23,7 @@ Estudante de **Engenharia de Software**, com foco no desenvolvimento de sistemas
 
 ### 📫 Onde me encontrar
 
-* **LinkedIn:** [Acesse meu perfil no LinkedIn](www.linkedin.com/in/thalles-raphael-moreira-da-costa-6973aa124)
+* **LinkedIn:** (www.linkedin.com/in/thalles-raphael-moreira-da-costa-6973aa124)
 * **E-mail:** raphaelcosta642@gmail.com
 
 ---
