@@ -1,16 +1,29 @@
-## Hi there 👋
+### Olá, eu sou o Raphael! 👋
 
-<!--
-**raphaelcosta642-hub/raphaelcosta642-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de **Engenharia de Software**, com foco no desenvolvimento de sistemas desktop (Python/CustomTkinter) e aplicações mobile. Sou apaixonado por transformar desafios operacionais do mundo real em software funcional, limpo e eficiente.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 💻 Tecnologias e Ferramentas
+
+* **Linguagens:** Python, JavaScript, Dart, SQL
+* **Mobile & Desktop:** Flutter, CustomTkinter, Android Studio
+* **Banco de Dados:** SQLite
+* **Ferramentas:** Git, GitHub, Docker, VS Code
+
+---
+
+### 🚀 Principais Projetos
+
+* **[Sistema de Gestão Comercial (Frutos de Goiás)]:** Sistema desktop desenvolvido em Python para controle de vendas, estoque e caixa.
+* **[Sistema de Gestão para Clínicas (Clínica RC Estética)]:** Aplicação em Python para agendamento, prontuários de pacientes e faturamento.
+* **[Repositório de Desafios Técnicos](link-do-seu-repositorio):** Soluções desenvolvidas para testes e processos seletivos.
+
+---
+
+### 📫 Onde me encontrar
+
+* **LinkedIn:** [Acesse meu perfil no LinkedIn](www.linkedin.com/in/thalles-raphael-moreira-da-costa-6973aa124)
+* **E-mail:** raphaelcosta642@gmail.com
+
+---
