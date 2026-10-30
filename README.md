@@ -15,7 +15,7 @@ Estudante de **Engenharia de Software**, com foco no desenvolvimento de sistemas
 
 ### 🚀 Principais Projetos
 
-* **[Sistema de Gestão Comercial Frutos de Goiás](https://github.com/raphaelcosta642-hub/sistemafrutosdegoias.git):** Sistema desktop desenvolvido em Python para controle de vendas, estoque e caixa.
+
 
 * **[Sistema de Gestão Comercial Frutos de Goiás](https://github.com/raphaelcosta642-hub/sistemafrutosdegoias.git):** Sistema desktop desenvolvido em Python para controle de vendas, estoque e caixa.
   
