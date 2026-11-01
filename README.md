@@ -21,7 +21,7 @@ Estudante de **Engenharia de Software**, com foco no desenvolvimento de sistemas
   
 *  **[Sistema de Gestão para Clínicas (Clínica RC Estética):** Aplicação em Python para agendamento, prontuários de pacientes e faturamento.
 
-*  * **[Repositório de Desafios Técnicos](https://github.com/raphaelcosta642-hub/Desafio-tecnico.git):** Soluções desenvolvidas para testes e processos seletivos
+* **[Repositório de Desafios Técnicos](https://github.com/raphaelcosta642-hub/Desafio-tecnico.git):** Soluções desenvolvidas para testes e processos seletivos
 
 ---
 
